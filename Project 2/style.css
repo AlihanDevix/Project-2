@@ -1,0 +1,51 @@
+.body{
+    padding: 0 80px;
+}
+
+.ss{
+    font-size: 30px;
+    margin: 0 556px 0 0;
+}
+.gray{
+    color: #4B5563;
+    margin-left: 25px;
+}
+.sun{
+    margin: 0 5px 0 40px;
+}
+.head_button{
+    background: black;
+    color: white;
+    padding: 6px 16px;
+    border-radius: 15px;
+}
+
+.main{
+    margin-bottom: 100px;
+}
+.hi{
+    font-size: 60px;
+    font-weight: 700px;
+}
+.text_grey{
+    color: #4B5563;
+}
+.sagar{
+    width: 300px;
+    height: 320px;
+    margin: 50px 0 0 128px;
+}
+
+.gray_button{
+    padding: 4px 20px;
+    border-radius: 12px;
+    color: #4B5563;
+}
+
+.botom{
+    margin-bottom: 50px;
+}
+.size{
+    font-size: 36px;
+    font-weight: 600;
+}
